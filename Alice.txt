@@ -1,1 +1,1 @@
-Hi! I'm Alice. I'm a file someone added to this repository a while ago. But I've been modified quite recently. I think Bob might have something to do with that.
+Hi! I'm Alice. I'm a file someone added to this repository a while ago. But I've been modified quite recently. I think Bob might have something to do with that. Seriously, that file can't be trusted.
