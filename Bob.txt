@@ -1,1 +1,1 @@
-Hi! I'm Bob. I'm a file created by Skitcher. How exciting!
+Hi! I'm Bob, the new file in the branch. I'm a file created by Skitcher. How exciting!
